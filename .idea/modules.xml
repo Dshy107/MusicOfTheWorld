@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MusicOfTheWorld.iml" filepath="$PROJECT_DIR$/MusicOfTheWorld.iml" />
+      <module fileurl="file://C:\Users\Mathias\AndroidStudioProjects\MusicOfTheWorld\MusicOfTheWorld.iml" filepath="C:\Users\Mathias\AndroidStudioProjects\MusicOfTheWorld\MusicOfTheWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Mathias\AndroidStudioProjects\MusicOfTheWorld\app\app.iml" filepath="C:\Users\Mathias\AndroidStudioProjects\MusicOfTheWorld\app\app.iml" />
+    </modules>
+  </component>
+</project>
